@@ -1,6 +1,6 @@
 {
     "version": "1.0.3",
     "release_date": "2025-06-28",
-    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.0.1/FirebirdBackupTool.exe",
+    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.0.3/FirebirdBackupTool.exe",
     "notes": "test aggiornamenti\n - Aggiunto NBackup incrementale (L0/L1/L2)\n- Backup cartelle via robocopy\n- Verifica conflitti orari task\n- Blocco nbackup su DB remoti\n- Sistema aggiornamenti automatici"
 }
