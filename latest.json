@@ -1,6 +1,6 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "release_date": "2025-07-14",
-    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.3.4/FirebirdBackupTool.exe",
+    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.3.5/FirebirdBackupTool.exe",
     "notes": "multiclient support; nbackup verify; ftp bug fix; other bug fixed"
 }
