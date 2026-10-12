@@ -1,6 +1,6 @@
 {
-    "version": "1.3.8",
-    "release_date": "2026-09-16",
-    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.3.8/FirebirdBackupTool.exe",
+    "version": "1.4.1",
+    "release_date": "2026-10-12",
+    "download_url": "https://github.com/ivan-1984/firebird-backup-tool-update-feed/releases/download/v1.4.1/FirebirdBackupTool.exe",
     "notes": "some bug fixed, added SMB upload option"
 }
